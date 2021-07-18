@@ -1,0 +1,2 @@
+Weather?industrial parameter monotoring using Node MCU (ESP826), 
+Output: On blynk app and thingspeak.com
